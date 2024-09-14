@@ -1,9 +1,52 @@
-- 👋 Hi, I'm @potopilo
-- 👀 I am interested in python coding and ethical hacking
-- 💞️ I am looking to collaborate on...my discord server the goal is to create a large community of enthusiasts
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=500&pause=1000&color=7BF757&center=vrai&vCenter=FAUX&repeat=vrai&width=435&lines=Potopilo)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 
-<!---
-potopilo/potopilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> ### ⚙️ Langues maîtrisées: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;py,;html-css,(https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+
+> ### 👉 Skills: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 👋 Déjà travaillé pour: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=Livity;Help &I;Amazon;Microsoft;Discord;Nox;VSC;Opera;Logitech;Axe;Apple;Nike;EEB;Spotify;Engine;Bluestack;Brawlstars;Critical+ops;Lacoste;Intel;Google;W3;Roblox;SublimeText;Telegram;Instagram;Spotify;deuxdollars;5$;mirlou;soundcloud;netflix;eris;Instagram;Twitter;TikTok;Nvidia;core;linux;wallpaper+engine;france+net+secu)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 🆕 Updates 
+ 
+```PY 
+ [+] Last update: 14/09/2024
+ [+] author: Potopilo
+ [+] owner: Potopilo
+ ```
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ 
+ > ### 🎈 Socials 
+ 
+ | 🐻 [discord](https://discord.gg/FrWfMPtss7) | 
+ 
+ 
+ ```py
+ potopilo
+ ```
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ 
+ > Réalisé par  Potopilo - README.md v.6.3
+ 
+  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+  
+
+ <br><br>
+<p>👀 &nbsp;Visitors</p>
+ <br>
+<img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
