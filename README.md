@@ -11,7 +11,7 @@
 
 
 > ### 👉 Skills: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC04F7&background=9B0CFF00&width=435&lines=Back+End;Front+End;Full+Stack+Developer+;Sys+admin;Web+D%C3%A9signer+;SQL;XSS)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
