@@ -1,7 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=500&pause=1000&color=7BF757&center=vrai&vCenter=FAUX&repeat=vrai&width=435&lines=Oshy+One)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=500&pause=1000&color=7BF757&center=vrai&vCenter=FAUX&repeat=vrai&width=435&lines=discord.gg%2Fbannersfr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=500&pause=1000&color=7BF757&center=vrai&vCenter=FAUX&repeat=vrai&width=435&lines=Potopilo)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
