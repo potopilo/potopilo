@@ -49,4 +49,4 @@
  <br><br>
 <p>👀 &nbsp;Visitors</p>
  <br>
-<img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
+![](https://api.visitorbadge.io/api/VisitorHit?user=potopilo&repo=github-visitors-badge&countColor=%237B1E7A)
