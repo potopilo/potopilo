@@ -16,7 +16,7 @@
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### 👋 Déjà travaillé pour: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=FunBot;ChillRadio;Strip;Amazon;Microsoft;Discord;Nox;VSC;Opera;Logitech;Axe;Apple;Nike;EEB;Spotify;Engine;Bluestack;Brawlstars;Critical+ops;Lacoste;Intel;Google;W3;Roblox;SublimeText;Telegram;Instagram;Spotify;deuxdollars;5$;mirlou;soundcloud;netflix;eris;Instagram;Twitter;TikTok;Nvidia;core;linux;wallpaper+engine;france+net+secu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F70000&width=435&lines=Help+%26I;Nova;Livity;E-Corp;Discord;TikTok%2Cyoutube;Burger+King)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
