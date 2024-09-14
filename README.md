@@ -46,7 +46,7 @@
   ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
 
- <br><br>
+<br><br>
 <p>👀 &nbsp;Visitors</p>
- <br>
-![](https://komarev.com/ghpvc/?username=potopilo)
+<br>
+<img align="left" src="https://profile-counter.glitch.me/potopilo/count.svg" />
